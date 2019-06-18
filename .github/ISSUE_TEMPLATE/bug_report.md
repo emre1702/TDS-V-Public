@@ -25,3 +25,7 @@ If applicable, add screenshots or logs (chat-output, notifications, dialogs, cli
 **Additional context**
 Add any other context about the problem here.
 Has this bug affected you? etc.
+
+**Your user id**
+Write down your user id so the report can be added to your account.  
+You can get your user id ingame with /userid.
