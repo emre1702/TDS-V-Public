@@ -1,5 +1,5 @@
-Issue tracker is **ONLY** used for reporting bugs.  
-Please use [Discord](https://discordapp.com/invite/Kpm3CYB) for supporting issues.  
+This template is **ONLY** used for reporting bugs.  
+Please use [Discord](https://discordapp.com/invite/Kpm3CYB) if you got any questions. 
 You can write in English or in German if you want.  
 
 ## Description
