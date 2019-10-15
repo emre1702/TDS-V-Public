@@ -1,6 +1,6 @@
 ---
 name: Bug Report (Deutsch)
-about: Melde einen Bug und hilf damit dem Server
+about: Melde einen Bug und hilf uns damit
 title: "[BUG] Mein Fehler"
 labels: bug
 assignees: emre1702
